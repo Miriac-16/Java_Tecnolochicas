@@ -1,0 +1,3 @@
+### Reto 2: Monitoreo de Recursos del Servidor 📊
+-   **Objetivo:** Desarrollar un monitor de recursos del servidor que utilice hilos para verificar el estado de diferentes componentes (CPU, memoria).
+-   **Descripción:** Este reto consistió en crear un programa que simulara el monitoreo de diferentes recursos de un servidor (como el uso de CPU o memoria). Cada recurso era monitoreado por su propio hilo, reportando su estado a intervalos regulares, y se demostró cómo detener el monitoreo de manera controlada. Esto ilustró la utilidad de la concurrencia para tareas de monitoreo y la importancia de la interrupción de hilos.
