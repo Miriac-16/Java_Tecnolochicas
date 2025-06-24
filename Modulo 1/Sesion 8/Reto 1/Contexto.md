@@ -1,0 +1,3 @@
+### Reto 1: Sistema de Alerta Meteorológica ⛈️
+-   **Objetivo:** Implementar el Patrón Observer para un sistema de alerta meteorológica donde los "displays" y "alertas" reaccionan a cambios en la estación meteorológica.
+-   **Descripción:** En este reto, creamos una "Estación Meteorológica" (sujeto observable) que notificaba a varios "Displays de Condiciones Actuales" y "Sistemas de Alerta" (observadores) cada vez que las condiciones climáticas cambiaban. Los observadores actualizaban su información o activaban alertas según la condición, demostrando cómo el patrón Observer permite una notificación eficiente y desacoplada.
