@@ -1,0 +1,3 @@
+### Reto 2: Gestión de Estudiantes ✅
+-   **Objetivo:** Desarrollar una clase con atributos y métodos que modifiquen el estado interno del objeto, y trabajar con colecciones simples (arrays).
+-   **Descripción:** En este reto, creamos una clase `Estudiante` con atributos como nombre, ID y promedio de calificaciones. La clase incluía un método para actualizar el promedio. En el programa principal, utilizamos un array para almacenar y gestionar varios objetos `Estudiante`, actualizando sus datos y mostrando la información de cada uno, lo que nos permitió practicar la manipulación de objetos dentro de colecciones básicas.
