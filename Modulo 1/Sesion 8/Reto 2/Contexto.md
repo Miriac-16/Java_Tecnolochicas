@@ -1,0 +1,3 @@
+### Reto 2: Sistema de Notificaciones de Eventos 🔔
+-   **Objetivo:** Desarrollar un sistema de gestión de eventos utilizando el Patrón Observer para notificar a diferentes tipos de oyentes sobre ocurrencias específicas.
+-   **Descripción:** Este reto nos permitió construir un `GestorEventos` (sujeto) que podía notificar a `NotificadoresEmail` y `RegistradoresLog` (oyentes) sobre diferentes tipos de eventos (errores, transacciones, etc.). Practicamos la suscripción y desuscripción de oyentes a eventos específicos, ilustrando la flexibilidad del patrón Observer para sistemas de notificación complejos y su capacidad para manejar múltiples tipos de eventos y reacciones.
